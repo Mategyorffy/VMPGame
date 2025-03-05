@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fd4eac297441f324cb5563c4268cd003
+guid: d0e11e31f9b0c5141877afcb7bb924cb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -71,7 +71,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -110,127 +110,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tilesetgrass-export 1_0
+      name: lil dud extra_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 570
+        width: 268
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb020a0ac4c12214eb090b026385a075
+      internalID: -871378278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lil dud extra_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 573
+        width: 268
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1816678ad37940b342dcd8e761f0e
+      internalID: -151966080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lil dud extra_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 579
+        width: 268
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625ced1f6755f654289ed001ada150dc
+      internalID: 543570728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lil dud extra_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 281
+        width: 268
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c65d731693b874ca0841c622e4d3d9
+      internalID: 1085118501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lil dud extra_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 292
+        width: 268
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e246d405176d4daa3cddd5874fa74
+      internalID: -979326113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lil dud extra_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 298
+        width: 268
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4fc974423040c4d82dbcb3df571944
+      internalID: -1704828318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lil dud extra_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 384
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 2
+        width: 268
+        height: 276
+      alignment: 9
+      pivot: {x: 0.4687607, y: 0.54044473}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbf8915ee22c5be439c6f7e9453dc106
-      internalID: 735723062
+      spriteID: 7caf7bfaa4fc6714faf51feaa087f289
+      internalID: 171678208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetgrass-export 1_1
+      name: lil dud extra_7
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 287
+        y: 5
+        width: 268
+        height: 276
+      alignment: 9
+      pivot: {x: 0.4687607, y: 0.54044473}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c7937a25b0394c4084cb62038ecb0ba
-      internalID: 835604823
+      spriteID: da29ad399fce65643a150b8ff7fb0538
+      internalID: -516642616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesetgrass-export 1_2
+      name: lil dud extra_8
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 566
+        y: 13
+        width: 268
+        height: 276
+      alignment: 9
+      pivot: {x: 0.4687607, y: 0.54044473}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e3e4beb4dcd7b04e9ba66906e43a4e0
-      internalID: -389805420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tilesetgrass-export 1_3
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54736fe715b2f9c4d8795eb343f8eab8
-      internalID: 806642253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tilesetgrass-export 1_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b1664a95d787ac4b8a76b844c768386
-      internalID: 427628283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tilesetgrass-export 1_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 372482cc83a7958498269f30e1416578
-      internalID: -1274725444
+      spriteID: f931c16d8a5288d4f8287c946d04cc35
+      internalID: -838942234
       vertices: []
       indices: 
       edges: []
@@ -246,12 +309,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tilesetgrass-export 1_0: 735723062
-      tilesetgrass-export 1_1: 835604823
-      tilesetgrass-export 1_2: -389805420
-      tilesetgrass-export 1_3: 806642253
-      tilesetgrass-export 1_4: 427628283
-      tilesetgrass-export 1_5: -1274725444
+      lil dud extra_0: -871378278
+      lil dud extra_1: -151966080
+      lil dud extra_2: 543570728
+      lil dud extra_3: 1085118501
+      lil dud extra_4: -979326113
+      lil dud extra_5: -1704828318
+      lil dud extra_6: 171678208
+      lil dud extra_7: -516642616
+      lil dud extra_8: -838942234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

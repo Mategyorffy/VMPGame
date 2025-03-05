@@ -10,7 +10,7 @@ public class Player : MonoBehaviour
     public static bool gameIsPaused = false;
 
     [SerializeField] private LevelManager manager;
-    [SerializeField] private CharacterController2D controller;
+    
 
     public Camera Maincam;
     public SpriteRenderer pImage;
@@ -66,7 +66,7 @@ public class Player : MonoBehaviour
     {
         
 
-        controller.Move(horizontal * Time.fixedDeltaTime, crouch, jump);
+        
         jump = false;
 
        if (Input.GetKey(KeyCode.A) && IsGrounded() || Input.GetKey(KeyCode.D) && IsGrounded())
