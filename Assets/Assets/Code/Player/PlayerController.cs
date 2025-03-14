@@ -14,9 +14,6 @@ public class PlayerController : MonoBehaviour
 
 
     //Private variable
-    PlayerInputActions _inputActions;
-    InputAction _move;
-
     float Horizontal;
     bool IsFacingRight = true;
 
@@ -30,8 +27,7 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
-        _inputActions = new PlayerInputActions();
-        _move = _inputActions.Player.Movement;
+       
 
     }
     private void FixedUpdate()
